@@ -1,0 +1,15 @@
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\bin\Debug\net6.0\C# Assessment - Salazar.exe
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\bin\Debug\net6.0\C# Assessment - Salazar.deps.json
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\bin\Debug\net6.0\C# Assessment - Salazar.runtimeconfig.json
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\bin\Debug\net6.0\C# Assessment - Salazar.dll
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\bin\Debug\net6.0\C# Assessment - Salazar.pdb
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\C# Assessment - Salazar.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\C# Assessment - Salazar.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\C# Assessment - Salazar.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\C# Assessment - Salazar.AssemblyInfo.cs
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\C# Assessment - Salazar.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\C# Assessment - Salazar.dll
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\refint\C# Assessment - Salazar.dll
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\C# Assessment - Salazar.pdb
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\C# Assessment - Salazar.genruntimeconfig.cache
+D:\OneDrive\Desktop\Assessment\C# Assessment - Salazar\C# Assessment - Salazar\obj\Debug\net6.0\ref\C# Assessment - Salazar.dll
